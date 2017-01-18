@@ -1,0 +1,13 @@
+html {
+	font-size: 40pt;
+	background-color: #00FFFD;
+	color: #8200FF;
+	font-family: 'Times New Roman', sans-serif;
+}
+
+h1 {
+	font-size: 100pt;
+	color: #FF33EE;
+	border-bottom: solid 2px #FFFD00;
+	font-family: 'Lucida Blackletter';
+}
